@@ -1,0 +1,4 @@
+﻿  test.c
+D:\代码\1.13\test.c(20,9): warning C4129: “q”: 不可识别的字符转义序列
+D:\代码\1.13\test.c(12): warning C4716: “Max”: 必须返回一个值
+  1.13.vcxproj -> D:\代码\1.13\Debug\1.13.exe
