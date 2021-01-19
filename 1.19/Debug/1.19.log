@@ -1,0 +1,9 @@
+﻿  test.c
+D:\代码\1.19\test.c(10,8): warning C4476: "scanf": 格式说明符中的类型字段字符“.”未知
+D:\代码\1.19\test.c(10,16): warning C4474: scanf: 格式字符串中传递的参数太多
+D:\代码\1.19\test.c(10,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\代码\1.19\test.c(12,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\代码\1.19\test.c(13,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\代码\1.19\test.c(14,11): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\代码\1.19\test.c(15,9): warning C4477: “printf”: 格式字符串“%.3f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  1.19.vcxproj -> D:\代码\1.19\Debug\1.19.exe
