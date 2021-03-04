@@ -1,0 +1,4 @@
+﻿  test.c
+D:\代码\3.4\test.c(13,28): warning C4244: “*=”: 从“double”转换到“char”，可能丢失数据
+D:\代码\3.4\test.c(13,28): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  3.4.vcxproj -> D:\代码\3.4\Debug\3.4.exe
