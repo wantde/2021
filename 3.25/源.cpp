@@ -1,0 +1,8 @@
+ #define _CRT_SECURE_NO_WARNINGS
+
+121
+
+121
+
+21
+31
